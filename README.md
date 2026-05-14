@@ -1,5 +1,7 @@
 # Anubis .NET Agent
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/PaoEng/Anubis-)
+
 **Senior code reviewer specializzato in .NET architecture** — review tecnica strutturata per progetti .NET con severity condivisa, refactoring concreti e handoff opzionali verso agenti specializzati (DevOps, Performance, Architecture).
 
 ## Cosa Fa
